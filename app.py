@@ -14,3 +14,6 @@ st.set_page_config(
 # 페이지 헤더, 서브헤더 제목 설정
 st.header("Streamlit Test Page")
 st.subheader("회원가입, 로그인")
+
+st.write('# Test')
+st.write('## 회원가입, 로그인')
